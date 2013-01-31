@@ -1,0 +1,25 @@
+{
+    "name": "thesavior/Saros-Skeleton",
+    "version": "0.5",
+    "type": "library",
+    "description": "Skeleton for use with the Saros PHP MVC Framework",
+    "homepage": "https://github.com/TheSavior/Saros-Skeleton",
+    "license" : "BSD",
+    "authors" : [
+        {
+            "name": "Eli White",
+            "email": "framework@eli-white.com",
+            "homepage": "http://eli-white.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2"
+        "thesavior/Saros": "dev-composer"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/TheSavior/Saros-Framework"
+        }
+    ]
+}
