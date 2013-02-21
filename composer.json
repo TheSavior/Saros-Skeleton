@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=5.3.2",
-        "thesavior/Saros": "dev-composer"
+        "thesavior/Saros": "dev-master"
     },
     "repositories": [
         {
