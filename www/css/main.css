@@ -2,7 +2,7 @@ body
 {
 	font-size: 12px;
 	font-family: "Lucida Grande", "Calibri", Verdana, Arial, sans-serif;
-	background: #DFE8F3  url('http://dev.powerwd.net/forum/themes/Default/images/bodybg.gif') repeat-x;
+	background: #DFE8F3  url('../images/bodybg.gif') repeat-x;
 }
 #container
 {
@@ -21,7 +21,7 @@ body
 	-moz-border-radius-topleft: 5px;
 	-moz-border-radius-topright: 5px;
 	border-bottom: 1px solid #5A7497;
-	background: url('http://dev.powerwd.net/forum/themes/Default/images/headerbg.gif') repeat-x;
+	background: url('../images/headerbg.gif') repeat-x;
 }
 #logo
 {
@@ -115,7 +115,7 @@ body
 	text-transform: capitalize;
 	margin-top: 20px;
 	padding-left: 10px;
-	background: url('http://dev.powerwd.net/forum/themes/Default/images/headerbg.gif') repeat-x;
+	background: url('../images/headerbg.gif') repeat-x;
 	border: 1px solid #63839F;
 	height: 30px;
 	line-height: 30px;

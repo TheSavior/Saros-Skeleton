@@ -7,13 +7,13 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/TheSavior/Saros-Framework",
-                "reference": "37ab8ddea247942fe6d3b452f53311466f8e6dc5"
+                "reference": "b6de4497c37f8ade64aa81b02d391217186923e4"
             },
             "require": {
                 "php": ">=5.3.2",
                 "vlucas/spot": "dev-master"
             },
-            "time": "2013-02-21 03:16:18",
+            "time": "2013-02-21 04:27:58",
             "type": "library",
             "autoload": {
                 "psr-0": {
