@@ -5,6 +5,7 @@
     "description": "Skeleton for use with the Saros PHP MVC Framework",
     "homepage": "https://github.com/TheSavior/Saros-Skeleton",
     "license" : "BSD",
+    "minimum-stability": "dev",
     "authors" : [
         {
             "name": "Eli White",
