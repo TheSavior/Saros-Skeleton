@@ -24,6 +24,9 @@
         }
     ],
     "autoload": {
-        "psr-0": { "Application": "src/" }
+        "psr-0": {
+            "Application": "src/",
+            "Test": "tests/"
+        }
     }
 }
